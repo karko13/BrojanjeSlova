@@ -1,0 +1,7 @@
+C:\Users\rafob\source\repos\BrojanjeSlova\bin\Debug\BrojanjeSlova.exe.config
+C:\Users\rafob\source\repos\BrojanjeSlova\bin\Debug\BrojanjeSlova.exe
+C:\Users\rafob\source\repos\BrojanjeSlova\bin\Debug\BrojanjeSlova.pdb
+C:\Users\rafob\source\repos\BrojanjeSlova\obj\Debug\BrojanjeSlova.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\BrojanjeSlova\obj\Debug\BrojanjeSlova.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\BrojanjeSlova\obj\Debug\BrojanjeSlova.exe
+C:\Users\rafob\source\repos\BrojanjeSlova\obj\Debug\BrojanjeSlova.pdb
